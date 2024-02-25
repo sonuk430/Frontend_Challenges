@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body li{
+  list-style: none;
+}
+
+.headingList{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: solid 1px;
+}
+
+
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
